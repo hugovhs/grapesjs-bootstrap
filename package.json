@@ -2,7 +2,7 @@
   "name": "@hugovhs/grapesjs-bootstrap",
   "version": "0.0.1",
   "description": "Bootstrap components for GrapesJS",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "author": "hugovhs",
   "repository": {
     "type": "git",
