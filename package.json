@@ -16,5 +16,11 @@
   "license": "MIT",
   "peerDependencies": {
     "grapesjs": "0.22.x"
+  },
+  "devDependencies": {
+    "vite": "^7.1.3"
+  },
+  "scripts": {
+    "build": "vite build"
   }
 }
