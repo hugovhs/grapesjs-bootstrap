@@ -3,7 +3,7 @@ known issues:
 - BS dropdown JS isn't attached if you remove the existing toggle and add a new one
 */
 
-import linkIcon from "raw-loader!../icons/link-solid.svg";
+import linkIcon from "../icons/link-solid.svg?raw";
 
 export const LinkBlock = (bm, label) => {
   bm.add("link", {

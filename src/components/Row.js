@@ -1,4 +1,4 @@
-import windowIcon from "raw-loader!../icons/window-maximize-solid.svg";
+import windowIcon from "../icons/window-maximize-solid.svg?raw";
 
 export const RowBlock = (bm, label) => {
   bm.add("row").set({

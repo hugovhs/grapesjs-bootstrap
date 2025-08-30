@@ -1,5 +1,5 @@
 import contexts from "../bootstrap-contexts";
-import certificateIcon from "raw-loader!../icons/certificate-solid.svg";
+import certificateIcon from "../icons/certificate-solid.svg?raw";
 import { capitalize } from "../utils";
 
 export const BadgeBlock = (bm, label) => {

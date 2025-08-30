@@ -1,6 +1,6 @@
 import contexts from "../bootstrap-contexts";
 import sizes from "../bootstrap-btn-sizes";
-import buttonIcon from "raw-loader!../icons/button.svg";
+import buttonIcon from "../icons/button.svg?raw";
 import { capitalize } from "../utils";
 
 export const ButtonBlock = (bm, label) => {

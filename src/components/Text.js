@@ -1,4 +1,4 @@
-import fontIcon from "raw-loader!../icons/font-solid.svg";
+import fontIcon from "../icons/font-solid.svg?raw";
 
 export const TextBlock = (bm, label) => {
   bm.add("text", {

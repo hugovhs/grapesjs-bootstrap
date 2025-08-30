@@ -1,4 +1,4 @@
-import headingIcon from "raw-loader!../icons/heading-solid.svg";
+import headingIcon from "../icons/heading-solid.svg?raw";
 
 export const HeaderBlock = (bm, label) => {
   bm.add("header", {

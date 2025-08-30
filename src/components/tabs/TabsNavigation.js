@@ -1,8 +1,8 @@
 import constants from "./constants";
 import { elHasClass } from "../../utils";
-import ellipsisIcon from "raw-loader!../../icons/ellipsis-h-solid.svg";
-import circleIcon from "raw-loader!../../icons/circle-solid.svg";
-import windowIcon from "raw-loader!../../icons/window-maximize-solid.svg";
+import ellipsisIcon from "../../icons/ellipsis-h-solid.svg?raw";
+import circleIcon from "../../icons/circle-solid.svg?raw";
+import windowIcon from "../../icons/window-maximize-solid.svg?raw";
 
 export const TabsBlock = (bm, c) => {
   bm.add("tabs", {

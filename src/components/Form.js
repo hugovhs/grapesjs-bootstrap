@@ -1,4 +1,4 @@
-import formIcon from "raw-loader!../icons/form.svg";
+import formIcon from "../icons/form.svg?raw";
 
 export const FormBlock = (bm, label) => {
   bm.add("form", {

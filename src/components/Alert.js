@@ -1,5 +1,5 @@
 import contexts from "../bootstrap-contexts";
-import exclamationIcon from "raw-loader!../icons/exclamation-triangle-solid.svg";
+import exclamationIcon from "../icons/exclamation-triangle-solid.svg?raw";
 import { capitalize } from "../utils";
 
 export const AlertBlock = (bm, label) => {

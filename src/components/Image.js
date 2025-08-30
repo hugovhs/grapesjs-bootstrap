@@ -1,4 +1,4 @@
-import imageIcon from "raw-loader!../icons/image-solid.svg";
+import imageIcon from "../icons/image-solid.svg?raw";
 
 export const ImageBlock = (bm, label) => {
   bm.add("bs-image", {

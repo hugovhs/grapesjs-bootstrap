@@ -1,4 +1,4 @@
-import labelIcon from "raw-loader!../icons/label.svg";
+import labelIcon from "../icons/label.svg?raw";
 
 export const LabelBlock = (bm, label) => {
   bm.add("label", {

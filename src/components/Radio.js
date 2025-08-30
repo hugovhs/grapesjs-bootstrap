@@ -1,4 +1,4 @@
-import radioIcon from "raw-loader!../icons/dot-circle-regular.svg";
+import radioIcon from "../icons/dot-circle-regular.svg?raw";
 
 export const RadioBlock = (bm, label) => {
   bm.add("radio", {

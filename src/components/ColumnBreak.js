@@ -1,4 +1,4 @@
-import equalsIcon from "raw-loader!../icons/equals-solid.svg";
+import equalsIcon from "../icons/equals-solid.svg?raw";
 
 export const ColumnBreakBlock = (bm, label) => {
   bm.add("column_break").set({

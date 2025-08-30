@@ -1,4 +1,4 @@
-import selectIcon from "raw-loader!../icons/select-input.svg";
+import selectIcon from "../icons/select-input.svg?raw";
 
 export const SelectBlock = (bm, label) => {
   bm.add("select", {

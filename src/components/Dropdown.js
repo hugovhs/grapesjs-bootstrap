@@ -3,7 +3,7 @@ known issues:
 - BS dropdown JS isn't attached if you remove the existing toggle and add a new one
 */
 
-import caretIcon from "raw-loader!../icons/caret-square-down-regular.svg";
+import caretIcon from "../icons/caret-square-down-regular.svg?raw";
 
 export const DropDownBlock = (bm, label) => {
   bm.add("dropdown", {

@@ -1,4 +1,4 @@
-import columnsIcon from "raw-loader!../icons/columns-solid.svg";
+import columnsIcon from "../icons/columns-solid.svg?raw";
 
 export const ColumnBlock = (bm, label) => {
   bm.add("column").set({
