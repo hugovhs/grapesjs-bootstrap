@@ -1,6 +1,6 @@
 {
   "name": "@hugovhs/grapesjs-bootstrap",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Bootstrap components for GrapesJS",
   "main": "dist/index.js",
   "author": "hugovhs",
