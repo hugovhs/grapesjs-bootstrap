@@ -1,4 +1,4 @@
-import compressIcon from "raw-loader!../icons/compress-solid.svg";
+import compressIcon from "../icons/compress-solid.svg?raw";
 
 export const CollapseBlock = (bm, label) => {
   bm.add("collapse", {

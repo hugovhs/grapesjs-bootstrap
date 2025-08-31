@@ -6,3 +6,5 @@
 _index.html
 /dist
 stats.json
+package-lock.json
+yarn.lock

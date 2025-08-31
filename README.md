@@ -13,7 +13,7 @@ Directly in the browser
 ```html
 <link href="https://unpkg.com/grapesjs/dist/css/grapes.min.css" rel="stylesheet"/>
 <script src="https://unpkg.com/grapesjs"></script>
-<script src="path/to/grapesjs-bootstrap.min.js"></script>
+<script src="path/to/grapesjs-bootstrap/index.umd.js"></script>
 
 <div id="gjs"></div>
 

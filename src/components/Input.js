@@ -1,4 +1,4 @@
-import inputIcon from "raw-loader!../icons/input.svg";
+import inputIcon from "../icons/input.svg?raw";
 
 export const InputBlock = (bm, label) => {
   bm.add("input", {

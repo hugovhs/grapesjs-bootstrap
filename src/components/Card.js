@@ -1,4 +1,4 @@
-import cardIcon from "raw-loader!../icons/credit-card-solid.svg";
+import cardIcon from "../icons/credit-card-solid.svg?raw";
 
 export const CardBlock = (bm, c) => {
   bm.add("card", {

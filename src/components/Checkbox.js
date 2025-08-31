@@ -1,4 +1,4 @@
-import checkIcon from "raw-loader!../icons/check-square-solid.svg";
+import checkIcon from "../icons/check-square-solid.svg?raw";
 
 export const CheckboxBlock = (bm, label) => {
   bm.add("checkbox", {

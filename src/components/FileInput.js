@@ -1,5 +1,5 @@
 import { elHasClass } from "../utils";
-import fileInputIcon from "raw-loader!../icons/file-input.svg";
+import fileInputIcon from "../icons/file-input.svg?raw";
 
 export const FileInputBlock = (bm, label) => {
   bm.add("file-input", {

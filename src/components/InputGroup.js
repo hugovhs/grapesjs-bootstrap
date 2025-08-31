@@ -1,5 +1,5 @@
-import formGroupIcon from "raw-loader!../icons/form-group.svg";
-import inputGroupIcon from "raw-loader!../icons/input-group.svg";
+import formGroupIcon from "../icons/form-group.svg?raw";
+import inputGroupIcon from "../icons/input-group.svg?raw";
 
 export const InputGroupBlock = (bm, label, c) => {
   bm.add("form_group_input", {

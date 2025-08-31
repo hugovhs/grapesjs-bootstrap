@@ -1,5 +1,5 @@
 import sizes from "../bootstrap-btn-sizes";
-import buttonIcon from "raw-loader!../icons/button.svg";
+import buttonIcon from "../icons/button.svg?raw";
 
 export const ButtonGroupBlock = (bm, label) => {
   bm.add("button_group", {

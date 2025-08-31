@@ -3,5 +3,8 @@
 *.html
 **/tsconfig.json
 **/webpack.config.js
+**/vite.config.js
+package-lock.json
 node_modules
 src
+dist/index.umd.js

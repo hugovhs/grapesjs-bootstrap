@@ -1,4 +1,4 @@
-import textareaIcon from "raw-loader!../icons/textarea.svg";
+import textareaIcon from "../icons/textarea.svg?raw";
 
 export const TextareaBlock = (bm, label) => {
   bm.add("textarea", {

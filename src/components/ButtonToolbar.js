@@ -1,4 +1,4 @@
-import buttonIcon from "raw-loader!../icons/button.svg";
+import buttonIcon from "../icons/button.svg?raw";
 
 export const ButtonToolbarBlock = (bm, label) => {
   bm.add("button_toolbar", {

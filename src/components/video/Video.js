@@ -1,4 +1,4 @@
-import videoIcon from "raw-loader!../../icons/youtube-brands.svg";
+import videoIcon from "../../icons/youtube-brands.svg?raw";
 
 export const VideoBlock = (bm, label) => {
   bm.add("bs-video", {
