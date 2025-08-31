@@ -6,7 +6,7 @@
   "author": "hugovhs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hugovhs/grapesjs-bootstrap.git"
+    "url": "git+https://github.com/hugovhs/grapesjs-bootstrap.git"
   },
   "keywords": [
     "grapesjs",
